@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Isaac Khobo"
+title: "Dr Isaac Khobo"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 # Biography
 
-Isaac Lebogang Khobo is a South African artificial intelligence researcher, biomedical engineer, educator, and programmer. He serves as a Lecturer in Artificial Intelligence at Stellenbosch University, South Africa. His work spans artificial intelligence, cognitive neuroscience, biomedical engineering, neuroimaging, image and signal processing, and computational psychiatry. His research investigates how principles of cognition and brain organisation can inform the development of more generalisable, interpretable, and adaptive artificial intelligence systems.
+Isaac Lebogang Khobo, PhD is a South African artificial intelligence researcher, biomedical engineer, educator, and programmer. He serves as a Lecturer in Artificial Intelligence at Stellenbosch University, South Africa. His work spans artificial intelligence, cognitive neuroscience, biomedical engineering, neuroimaging, image and signal processing, and computational psychiatry. His research investigates how principles of cognition and brain organisation can inform the development of more generalisable, interpretable, and adaptive artificial intelligence systems.
 
 Khobo maintains this website as a record of his academic activities, research interests, publications, teaching, projects, and professional development.
 
