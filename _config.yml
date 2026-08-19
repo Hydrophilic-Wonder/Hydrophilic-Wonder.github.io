@@ -23,7 +23,7 @@ repository               : "hydrophilic-wonder/hydrophilic-wonder.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Isaac Khobo"
   pronouns         : "he/him" 
   bio              : "Lecturer (Computer Programming & Systems) | Researcher (AI/ML)| Cyclist | Weightlifter | Songwriter (Indie Folk)"
