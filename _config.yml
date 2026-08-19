@@ -24,8 +24,8 @@ repository               : "hydrophilic-wonder/hydrophilic-wonder.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr Isaac Lebogang Khobo, PhD"
-  pronouns         : # example: "she/her" 
+  name             : "Isaac Khobo, PhD"
+  pronouns         : "he/him" 
   bio              : "Lecturer (Computer Programming & Systems) | Researcher (AI/ML)| Cyclist | Weightlifter | Songwriter (Indie Folk)"
   location         : "City of Cape Town & Stellenbosch"
   employer         : "Stellenbosch University (SU)"
