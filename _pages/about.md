@@ -13,12 +13,6 @@ Dr Isaac Lebogang Khobo is a South African artificial intelligence researcher, b
 
 Khobo maintains this website as a record of his academic activities, research interests, publications, teaching, projects, and professional development.
 
-## General Description
-
-Khobo's work focuses on the intersection of artificial intelligence, biomedical engineering, neuroimaging, cognitive neuroscience, and public health. His interests include neuroscience-informed AI, multimodal MRI analysis, image and signal processing, graph-based learning, cognitive architectures, and geospatial modelling of mental health risk.
-
-A central theme of his research is understanding how cognition can be computationally instantiated and how biological intelligence can inspire next-generation artificial intelligence systems. He is particularly interested in developing AI models that are robust, explainable, privacy-aware, and applicable to real-world scientific and healthcare challenges.
-
 ## Early Life and Education
 
 Khobo developed an interest in mathematics, science, and computing from an early age. These interests later expanded to include neuroscience and biomedical engineering, leading to an interest in understanding the biological and computational mechanisms underlying cognition.
@@ -69,17 +63,19 @@ Application of computer vision, geometric modelling, and machine-learning techni
 
 ### Interests
 
-Outside formal academic work, Khobo maintains interests in technology, scientific inquiry, reading, programming, lifelong learning, and the history of ideas. He enjoys exploring emerging developments in artificial intelligence, neuroscience, engineering, philosophy of mind, and cognitive science.
+Outside academia, Khobo maintains a balance between technical interests and creative pursuits, including music, console gaming, weightlifiting, and outdoor activities. His approach to life emphasizes intellectual curiosity, continuous learning, humility, and personal growth. He is also a fan of animation in all art forms, cubing, playing chess, reading about space, and keeping up with DC and Marvel Comics. His favourite superheros are Hulk and Spiderman.
 
 ### Philosophical Views
 
-Khobo advocates evidence-based reasoning, interdisciplinary scholarship, and continuous self-improvement. His approach emphasises understanding first principles, critical thinking, scientific curiosity, and the responsible application of technology to societal challenges.
+Khobo advocates evidence-based reasoning, and analytical philosophy, interdisciplinary scholarship, and continuous self-improvement. Because of his research, he is sympathetic to supervenience physicalism: he believes higher mental thoughts non-causally depend on lower-level physical properties. Khobo is also sympathetic to agnosticism, believing you could construct a philosophical world with or without a god in it.
 
 He believes that meaningful progress in artificial intelligence will increasingly require integrating insights from neuroscience, psychology, computer science, engineering, and public health.
 
 ### Personality
 
-Khobo is known for an analytical and interdisciplinary approach to problem solving. His work combines concepts from engineering, computing, neuroscience, and artificial intelligence, with an emphasis on rigorous reasoning, systematic investigation, and continual learning.
+Khobo is known for an analytical and introspective approach to problem solving. His work is characterised by curiosity about how complex systems emerge from simpler components, whether in artificial intelligence, neuroscience, or human cognition.
+
+He is naturally introverted and values independent study, reflection, and deep work. Colleagues and students often encounter his enthusiasm for explaining difficult concepts through first-principles reasoning and interdisciplinary perspectives.
 
 ## Website
 
