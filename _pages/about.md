@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr Isaac Khobo"
+title: "Isaac Khobo, BSc (Eng), MSc, PhD"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 # Biography
 
-Isaac Lebogang Khobo, PhD is a South African artificial intelligence researcher, biomedical engineer, educator, and programmer. He serves as a Lecturer in Artificial Intelligence at Stellenbosch University, South Africa. His work spans artificial intelligence, cognitive neuroscience, biomedical engineering, neuroimaging, image and signal processing, and computational psychiatry. His research investigates how principles of cognition and brain organisation can inform the development of more generalisable, interpretable, and adaptive artificial intelligence systems.
+Dr Isaac Lebogang Khobo is a South African artificial intelligence researcher, biomedical engineer, educator, and programmer. He serves as a Lecturer in Artificial Intelligence at Stellenbosch University, South Africa. His work spans artificial intelligence, cognitive neuroscience, biomedical engineering, neuroimaging, image and signal processing, and computational psychiatry. His research investigates how principles of cognition and brain organisation can inform the development of more generalisable, interpretable, and adaptive artificial intelligence systems.
 
 Khobo maintains this website as a record of his academic activities, research interests, publications, teaching, projects, and professional development.
 
@@ -29,75 +29,41 @@ He earned a BSc (Eng) in Mechatronics Engineering, followed by MSc and PhD degre
 
 Khobo serves as a Lecturer in Artificial Intelligence at Stellenbosch University. His teaching and research activities span machine learning, artificial intelligence, biomedical data science, neuroimaging, cognitive neuroscience, and responsible AI.
 
-## Works
+## Research Programme
 
-### Education
+Khobo's current research programme investigates the application of artificial intelligence, computational neuroscience, and biomedical data science to problems in cognition, mental health, and public health. His work combines principles from machine learning, neuroimaging, neuroscience, and engineering to develop interpretable, robust, and socially responsible computational systems.
 
-Khobo's academic work combines engineering, computing, neuroscience, and biomedical science. Areas of study and expertise include:
-
-- Artificial intelligence and machine learning
-- Computer architecture
-- Embedded systems
-- Image and signal processing
-- Biomedical engineering
-- Neuroimaging
-- Computational neuroscience
-- Software engineering
-- Numerical methods
-- Engineering mathematics
-
-### Research
-
-Khobo's research interests include:
-
-- Artificial intelligence and machine learning
-- Brain-inspired and neuroscience-informed AI
-- Cognitive architectures and Artificial General Intelligence (AGI)
-- Neuroimaging and multimodal MRI analysis
-- Brain segmentation and medical image analysis
-- Cognitive neuroscience
-- Mental health and computational psychiatry
-- Geospatial artificial intelligence
-- Explainable and trustworthy AI
-- Privacy-preserving data science
-- Graph-based learning and brain connectivity modelling
-- Biomedical signal processing
-
-His research combines machine learning, neuroscience, biomedical engineering, and public-health analytics to better understand cognition, brain organisation, and mental health outcomes.
-
-### Projects
-
-#### Neuroscience-Informed AI and Cognitive Architectures
+### Neuroscience-Informed AI and Cognitive Architectures
 
 Development of brain-inspired artificial intelligence systems that integrate perception, memory, attention, reasoning, and decision-making. This research leverages multimodal neuroimaging and cognitive neuroscience to investigate architectural principles that may contribute to more generalisable, explainable, and adaptive AI systems.
 
-#### Multimodal Neuroimaging Analysis
+### Multimodal Neuroimaging Analysis
 
-Development of computational methods for analysing structural MRI, functional MRI, diffusion imaging, spectroscopy, and other neuroimaging modalities. This work investigates how multimodal information can be integrated to improve representation learning, prediction, and scientific understanding of the human brain.
+Development of computational methods for analysing structural MRI, functional MRI, diffusion imaging, magnetic resonance spectroscopy, and related neuroimaging modalities. This work investigates how multimodal information can be integrated to improve representation learning, prediction, and scientific understanding of the human brain.
 
-#### Automated Neuroimaging Quality Control
+### Automated Neuroimaging Quality Control
 
-Design of intelligent systems that automatically assess neuroimaging data quality, detect artifacts, identify preprocessing failures, and improve the reliability and scalability of large neuroimaging studies.
+Design of intelligent systems capable of automatically assessing neuroimaging data quality, identifying artifacts, detecting preprocessing failures, and improving the reliability and scalability of large neuroimaging studies.
 
-#### Brain Image Segmentation and Medical Image Analysis
+### Brain Image Segmentation and Medical Image Analysis
 
 Investigation of classical image-processing and modern machine-learning approaches for automated segmentation of anatomical structures, lesions, tumours, and other regions of interest in neuroimaging data.
 
-#### Brain Connectivity and Graph AI
+### Brain Connectivity and Graph-Based AI
 
-Application of graph theory, network science, and graph neural networks to model structural and functional brain connectivity. This research examines how patterns of connectivity relate to behavioural, cognitive, and clinical outcomes.
+Application of graph theory, network science, and graph neural networks to model structural and functional brain connectivity. This research examines how patterns of connectivity relate to behavioural, cognitive, developmental, and clinical outcomes.
 
-#### Geospatial AI and Public Health
+### Computational Psychiatry and Mental Health
+
+Application of artificial intelligence, neuroimaging, and predictive modelling techniques to investigate factors associated with cognitive development, mental health outcomes, and neurodevelopmental trajectories across diverse populations.
+
+### Geospatial AI and Public Health
 
 Development of privacy-preserving geospatial machine-learning frameworks that integrate environmental, demographic, satellite, imaging, and biological data to better understand community-level mental health vulnerability and support ethical public-health decision-making.
 
-#### Computational Psychiatry and Mental Health
+### Craniofacial AI and Computational Phenotyping
 
-Application of artificial intelligence, neuroimaging, and predictive modelling techniques to investigate factors associated with mental health outcomes and cognitive development across diverse populations.
-
-#### Craniofacial AI and Computational Phenotyping
-
-Use of computer vision, geometric modelling, and machine learning techniques for quantitative analysis of three-dimensional craniofacial morphology, including research applications related to developmental disorders and craniofacial anomalies.
+Application of computer vision, geometric modelling, and machine-learning techniques for quantitative analysis of three-dimensional craniofacial morphology, including research applications related to developmental disorders and craniofacial anomalies.
 
 ## Personal Life
 
