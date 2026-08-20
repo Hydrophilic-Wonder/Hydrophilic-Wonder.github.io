@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2024-openreview
 date: 2024-01-01
 venue: "Workshop Paper"
+type: conference
 paperurl: "https://openreview.net/pdf?id=hj7hmvKc2r"
 ---
 
