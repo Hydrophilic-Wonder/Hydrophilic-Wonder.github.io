@@ -60,21 +60,21 @@ A studious, motivated, and well-focused researcher and lecturer laying the groun
 *Conferred March 2025*
 
 **Dissertation:**  
-*Exploring the relationship between multimodal magnetic resonance neuroimaging and cognitive outcomes in children...*
+*Exploring the relationship between multimodal magnetic resonance neuroimaging and cognitive outcomes in children: Applying machine learning algorithms to brain MRI measures to predict cognitive scores and performance categories of children living with and without HIV*
 
 ### MSc (Biomedical Engineering) with Distinction
 **University of Cape Town**  
 *Conferred December 2020*
 
 **Dissertation:**  
-*Multimodal neuroimaging signatures of cART-treated paediatric HIV...*
+*Multimodal neuroimaging signatures of cART-treated paediatric HIV: Distinguishing perinatally infected 7-year-old children from uninfected controls*
 
 ### BSc (Eng) Mechatronics Engineering
 **University of Cape Town**  
 *Conferred December 2017*
 
 **Dissertation:**  
-*Optimisation algorithm for chemical shift (2D CSI) and single voxel (SVS) spectra acquisition techniques...*
+*Optimisation algorithm for chemical shift (2D CSI) and single voxel (SVS) spectra acquisition techniques of magnetic resonance spectroscopy imaging*
 
 ---
 
