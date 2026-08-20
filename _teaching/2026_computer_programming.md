@@ -1,5 +1,5 @@
 ---
-title: "Computer Programming"
+title: "Computer Programming 143"
 collection: teaching
 type: "Undergraduate Module"
 permalink: /teaching/computer-programming/
