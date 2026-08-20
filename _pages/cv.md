@@ -17,8 +17,8 @@ redirect_from:
 Department of Electrical & Electronic Engineering  
 Stellenbosch University, South Africa
 
-📧 ilkhobo@sun.ac.za  
-📧 wonder.hydrophilic@outlook.com
+📧 ilkhobo@sun.ac.za (work)
+📧 wonder.hydrophilic@outlook.com (personal)
 
 ---
 
