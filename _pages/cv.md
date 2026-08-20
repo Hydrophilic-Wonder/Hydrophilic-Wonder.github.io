@@ -24,7 +24,7 @@ Stellenbosch University, South Africa
 
 ## PROFILE
 
-A studious, motivated, and well-focused researcher and lecturer laying the groundwork for a career in academia. My expertise spans artificial intelligence, machine learning, biomedical engineering, neuroimaging, computer science, and biostatistics.  【1-460041】
+A studious, motivated, and well-focused researcher and lecturer laying the groundwork for a career in academia. My expertise spans artificial intelligence, machine learning, biomedical engineering, neuroimaging, computer science, and biostatistics.
 
 ---
 
@@ -80,9 +80,9 @@ A studious, motivated, and well-focused researcher and lecturer laying the groun
 
 ## PUBLICATIONS
 
-1. Khobo, I.L., Robertson, F.C., Laughton, B., et al. (2025). *Associations between Neuroimaging Measures and Cognitive Performance in Children, Adolescents, and Youth Living With HIV: A Systematic Review.* Current HIV/AIDS Reports, 22, 51. DOI: https://doi.org/10.1007/s11904-025-00760-1 【1-460041】
+1. Khobo, I.L., Robertson, F.C., Laughton, B., et al. (2025). *Associations between Neuroimaging Measures and Cognitive Performance in Children, Adolescents, and Youth Living With HIV: A Systematic Review.* Current HIV/AIDS Reports, 22, 51. DOI: https://doi.org/10.1007/s11904-025-00760-1
 
-2. Khobo, I.L., Jankiewicz, M., Holmes, M.J., et al. (2022). *Multimodal magnetic resonance neuroimaging measures characteristic of early cART-treated paediatric HIV: A feature selection approach.* Human Brain Mapping, 43(13), 4128-4144. DOI: https://doi.org/10.1002/hbm.25907 【1-460041】
+2. Khobo, I.L., Jankiewicz, M., Holmes, M.J., et al. (2022). *Multimodal magnetic resonance neuroimaging measures characteristic of early cART-treated paediatric HIV: A feature selection approach.* Human Brain Mapping, 43(13), 4128-4144. DOI: https://doi.org/10.1002/hbm.25907
 
 ---
 
