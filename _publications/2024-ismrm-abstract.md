@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2024-ismrm
 date: 2024-05-01
 venue: "ISMRM Annual Meeting"
+type: conference
 paperurl: "https://archive.ismrm.org/2024/4703.html"
 ---
 
