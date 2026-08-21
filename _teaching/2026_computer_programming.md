@@ -11,16 +11,9 @@ Course material for Computer Programming modules taught in the Department of Ele
 
 ## Lecture Slides
 
-### Module 1: Introduction
+### Lecture 0: Module Information
 
-- /files/slides/CPG144_Introduction.pdf
+<iframe src="https://1drv.ms/p/c/8e7cb7e49184879a/IQSdMEeOMfb4TLbfWMVgjIkVAZQVdZyaf0eujQBkjWSrdMs?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
-### Module 2: Variables and Data Types
+### Download
 
-- [Variables and Data Types](/files/slides/CPule 3: Functions
-
-- [Functions and PG144_Functions.pdf]
-
-### Module 4: Arrays
-
-- [Arrays and Data 144_Arrays.pdf]
