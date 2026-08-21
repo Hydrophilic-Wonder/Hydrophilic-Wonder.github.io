@@ -1,8 +1,23 @@
+---
+layout: archive
+title: "Modules/Courses"
+permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+# Modules/Courses
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+Course material for Computer Programming modules taught in the Department of
+Electrical and Electronic Engineering at Stellenbosch University.
+
+## Available Modules
+
+<ul>
+{% for course in site.teaching %}
+  <li>
+    {{ course.url | relative_url }}
+      {{ course.title }}
+    </a>
+  </li>
 {% endfor %}
+</ul>
