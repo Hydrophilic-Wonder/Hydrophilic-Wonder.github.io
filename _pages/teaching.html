@@ -1,19 +1,8 @@
----
-layout: archive
-title: "Modules/Courses"
-permalink: /teaching/
 author_profile: true
 ---
 
-# Computer Programming 143
+{% include base_path %}
 
-Course material for Computer Programming modules taught in the Department of
-Electrical and Electronic Engineering at Stellenbosch University.
-
-## Lecture Slides
-
-{% for page in site.pages %}
-  {% if page.url contains '/teaching/' and page.title and page.url != '/teaching/' %}
-* {{ page.url | relative_url }}
-  {% endif %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
 {% endfor %}
