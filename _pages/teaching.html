@@ -5,11 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Course material for Computer Programming modules taught in the Department of
-Electrical and Electronic Engineering at Stellenbosch University.
+{% include base_path %}
 
-## Available Modules
-
-{% for course in site.teaching %}
-- {{ course.url | relative_url }}
+{% for post in site.teaching %}
+  {% include archive-single.html %}
 {% endfor %}
