@@ -206,7 +206,12 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+markdown: kramdown
 
+kramdown:
+  input: GFM
+  parse_block_html: true
+  
 # Markdown Processing
 kramdown:
   input: GFM
