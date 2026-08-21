@@ -7,8 +7,6 @@ venue: "Stellenbosch University"
 date: 2026-07-01
 ---
 
-# Computer Programming
-
 Course material for Computer Programming modules taught in the Department of Electrical and Electronic Engineering at Stellenbosch University.
 
 ## Lecture Slides
