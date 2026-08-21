@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Module"
 permalink: /teaching/computer-programming/
 venue: "Stellenbosch University"
-date: 2026-01-01
+date: 2026-07-01
 ---
 
 # Computer Programming
@@ -21,8 +21,8 @@ Course material for Computer Programming modules taught in the Department of Ele
 
 - [Variables and Data Types](/files/slides/CPule 3: Functions
 
-- [Functions and PG144_Functions.pdf
+- [Functions and PG144_Functions.pdf]
 
 ### Module 4: Arrays
 
-- [Arrays and Data 144_Arrays.pdf
+- [Arrays and Data 144_Arrays.pdf]
