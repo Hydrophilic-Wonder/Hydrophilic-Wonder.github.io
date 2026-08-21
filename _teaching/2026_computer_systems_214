@@ -1,7 +1,25 @@
-<h3>Iframe Test</h3>
+---
+title: "Computer Systems 214"
+collection: teaching
+type: "Undergraduate Module"
+permalink: /teaching/computer-systems/
+venue: "Stellenbosch University"
+date: 2026-07-01
+---
+
+Course material for Computer Systems modules taught in the Department of Electrical and Electronic Engineering at Stellenbosch University.
+
+## Lecture Slides
+
+### Lecture 0: Module Information
 
 <iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/jNQXAC9IVRw"
-  title="YouTube test
+    src="https://1drv.ms/p/c/8e7cb7e49184879a/IQSdMEeOMfb4TLbfWMVgjIkVAZQVdZyaf0eujQBkjWSrdMs?em=2"
+    width="100%"
+    height="600"
+    frameborder="0">
+</iframe>
+
+### Download
+
+[PowerPoint Slides](https://1drv.ms/p/c/8e7cb7e49184879a/IQSdMEeOMfb4TLbfWMVgjIkVAZQVdZyaf0eujQBkjWSrdMs?e=XXXXXXXX
