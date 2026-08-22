@@ -11,6 +11,7 @@ Course material for Year 1 Computer Programming module taught in the Department 
 The personal teaching slide show is supplementary material to the course slides, which are linked for download below. It is important to note only the material in the university slides will be assessed in A1, A2, or A3, and not necessarily the material in the supplementary slideshow. However, the slideshow is based on the course notes and textbook and presented for an easier understanding of the material.
 
 ## Lecture Slides
+Note: You must be signed in with your Stellenbosch University Microsoft account before viewing the slideshows.
 
 ### Lecture 14: Module Information
 This lecture explores storing and manipulating strings, passing strings to functions, and searching strings using either linear or binary search algorithms.
