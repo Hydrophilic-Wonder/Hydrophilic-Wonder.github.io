@@ -16,13 +16,7 @@ Note: You must be signed in with your Stellenbosch University Microsoft account 
 ### Lecture 14: Module Information
 This lecture explores storing and manipulating strings, passing strings to functions, and searching strings using either linear or binary search algorithms.
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe
-    src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={97d115ac-bf0c-405f-a5ef-k=1"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    title="PowerPoint Viewer">
-  </iframe>
-</div>
+<iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={97d115ac-bf0c-405f-a5ef-d7cbc142d26f}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 ### Download
 
