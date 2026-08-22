@@ -13,7 +13,7 @@ The personal teaching slide show is supplementary material to the course slides,
 ## Lecture Slides
 Note: You must be signed in with your Stellenbosch University Microsoft account before viewing the slideshows.
 
-### Lecture 14: Module Information
+### Lecture 14: Arrays II (strings/array of characters)
 This lecture explores storing and manipulating strings, passing strings to functions, and searching strings using either linear or binary search algorithms.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
