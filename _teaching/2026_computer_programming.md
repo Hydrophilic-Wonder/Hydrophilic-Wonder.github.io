@@ -17,8 +17,8 @@ This lecture explores storing and manipulating strings, passing strings to funct
 
 <iframe
   src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={97d115ac-bf0c-405f-a5ef-d7cbc142d26f}&action=embedview&wdAr=1.7777777777777777&wdEaaCheck=1"
-  width="100%"
-  height="100%"
+  width="476px"
+  height="288px"
   frameborder="0"
   title="PowerPoint Viewer">
 </iframe>
