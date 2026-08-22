@@ -25,5 +25,4 @@ This lecture explores storing and manipulating strings, passing strings to funct
 
 ### Download
 
-{{ '/files/Lecture_14.pdf' | relative_url }} |
-{{ '/files/Lecture_14.pptx' | relative_url }}
+[SU Notes (PDF)](/files/Lecture_14.pdf) | [Slideshow (powerpoint)](/files/Lecture_14.pptx)
