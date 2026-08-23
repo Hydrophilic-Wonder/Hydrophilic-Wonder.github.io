@@ -13,6 +13,22 @@ The personal teaching slide show is supplementary material to the course slides,
 ## Lecture Slides
 Note: You must be signed in with your Stellenbosch University Microsoft account before viewing the slideshows.
 
+### Lecture 12: Functions IV
+This lecture explores recursive functions, fibonacci sequence example, and and how recursion compares to iteration.
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    frameborder="0"
+    title="PowerPoint Viewer">
+    This is an embedded <a href="https://office.com/" target="_blank">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps" target="_blank">Office</a>.
+  </iframe>
+</div>
+
+### Download
+
+[SU Notes (PDF)](/files/Lecture_12.pdf) | [Slideshow (powerpoint)](/files/Lecture_12.pptx) | [Source code]
+
 ### Lecture 13: Arrays I (strings/array of characters)
 This lecture explores strings or array of characters, the format of declaring and initialising strings, and examples using strings.
 
