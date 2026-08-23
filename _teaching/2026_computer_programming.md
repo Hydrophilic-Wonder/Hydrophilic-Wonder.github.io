@@ -17,7 +17,7 @@ Note: You must be signed in with your Stellenbosch University Microsoft account 
 Computer systems, programming languages, and simple c program for printing text to the screen
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="[https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={519061ae-718f-4278-9975-72deecb7c5ac}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
@@ -33,7 +33,7 @@ Computer systems, programming languages, and simple c program for printing text 
 Printing text, adding two integers, memory conceps, arithmetic, user input.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={5915fcfe-f83d-47ff-be6d-0080f3b61d30}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
@@ -49,7 +49,7 @@ Printing text, adding two integers, memory conceps, arithmetic, user input.
 Programming decisions; algorithms, pseudocode, and flow diagrams; if and if else selection structure
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={869cd8af-2a5f-4f45-bffc-0ccbf937a94e}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
@@ -65,7 +65,7 @@ Programming decisions; algorithms, pseudocode, and flow diagrams; if and if else
 The while repetition statement; counter controlled repetition; and sentinel-controlled repetition.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={1c7e551e-0156-45db-9c70-bcee71ff99d2}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
@@ -81,7 +81,7 @@ The while repetition statement; counter controlled repetition; and sentinel-cont
 Nested control structures; assignment operators; and increment and decrement operators
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={8fec11e1-0ed7-449a-9ede-1d21b0ef6ba2}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
@@ -97,7 +97,7 @@ Nested control structures; assignment operators; and increment and decrement ope
 For loop, and for loop examples
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={ad01de27-a714-42bc-bd99-57f063be76ec}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
@@ -113,7 +113,7 @@ For loop, and for loop examples
 Essentials of iterations and counter-controlled repetition; the for loop (repetition) statement; and for loop examples.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={ad01de27-a714-42bc-bd99-57f063be76ec}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
@@ -129,7 +129,7 @@ Essentials of iterations and counter-controlled repetition; the for loop (repeti
 The switch multiple-selection statement; the break statemetn; and summary of structured programming.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={0d372ddb-334f-4ac6-80cb-043791a5815b}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
@@ -145,7 +145,7 @@ The switch multiple-selection statement; the break statemetn; and summary of str
 Introduction to functions, their benefits, math library functions, and function prototypes.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={dc186bff-7b64-42c8-9b55-35b96fc06097}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
@@ -161,7 +161,7 @@ Introduction to functions, their benefits, math library functions, and function 
 Header files, calling functions, and random number generation
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={7ddc48ab-f3d9-4551-9fc6-7b27c82f1a66}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
@@ -177,7 +177,7 @@ Header files, calling functions, and random number generation
 Introduction to enumerations, a game of chance, storage classes, and scope rules
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={6ed853fd-8e46-425d-80c8-cff3e625aca8}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
@@ -193,7 +193,7 @@ Introduction to enumerations, a game of chance, storage classes, and scope rules
 This lecture explores recursive functions, fibonacci sequence example, and and how recursion compares to iteration.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={29823475-ebe8-44ac-b55b-e1a7c2492a26}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+  <iframe src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={6def4761-a481-4cba-86bc-53d4195a5549}&amp;action=embedview&amp;wdAr=1.7777777777777777"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     frameborder="0"
     title="PowerPoint Viewer">
