@@ -46,3 +46,21 @@ This lecture explores storing and manipulating strings, passing strings to funct
 ### Download
 
 [SU Notes (PDF)](/files/Lecture_14.pdf) | [Slideshow (powerpoint)](/files/Lecture_14.pptx) | [Source code]
+
+### Lecture 15: Arrays III 
+This lecture explores sorting integer arrays and working out mean, median, and mode of unsorted arrays
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+  <iframe
+    src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={7f962c88-41ac-4297-bd39-cacdd7fd0817}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    frameborder="0"
+    title="PowerPoint Viewer">
+    This is an embedded <a href="https://office.com/" target="_blank">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps" target="_blank">Office</a>.
+  </iframe>
+</div>
+
+### Download
+
+[SU Notes (PDF)](/files/Lecture_15.pdf) | [Slideshow (powerpoint)](/files/Lecture_15.pptx) | [Source code]
+
