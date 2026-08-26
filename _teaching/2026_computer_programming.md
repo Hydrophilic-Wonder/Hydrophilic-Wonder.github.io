@@ -256,3 +256,21 @@ This lecture explores sorting integer arrays and working out mean, median, and m
 
 [SU Notes (PDF)](/files/Lecture_15.pdf) | [Slideshow (powerpoint)](/files/Lecture_15.pptx) | [Source code]
 
+### Lecture 16: Arrays IV 
+This lecture explores multiple-subscripted arrays and debugging code
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+  <iframe
+    src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={71a04cb3-37f5-4180-9e9c-1c796ec3578c}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    frameborder="0"
+    title="PowerPoint Viewer">
+    This is an embedded <a href="https://office.com/" target="_blank">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps" target="_blank">Office</a>.
+  </iframe>
+</div>
+
+### Download
+
+[SU Notes (PDF)](/files/Lecture_16.pdf) | [Slideshow (powerpoint)](/files/Lecture_16.pptx) | [Source code]
+
+
