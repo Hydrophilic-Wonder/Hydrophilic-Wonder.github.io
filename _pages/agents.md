@@ -5,7 +5,7 @@ permalink: /agents/
 author_profile: true
 ---
 
-These agents (bots or skills) are written in Copilot Studio, powered by either Claude Opus 5 or GPT-5.6 Sol.
+These agents (bots or skills) are written in Copilot Studio, reasoning powered by Claude Opus 5 or GPT-5.6 Sol.
 
 # 1. Exposome-Mental Health Review Helper
 
