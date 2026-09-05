@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Agents 
+title: "Agents" 
 permalink: /agents/
 author_profile: true
 ---
