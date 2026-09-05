@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Agents"
+title: "Agents (Written in Copilot Studio, powered by either Claude Opus 5 or GPT-5.6 Sol)"
 permalink: /agents/
 author_profile: true
 ---
 
-# Exposome-Mental Health Agent Helper
+# Exposome-Mental Health Review Helper
 
 Here are the inclusion/exclusion criteria I apply when screening records for your review (environmental exposures and mental health in Africa):
 
