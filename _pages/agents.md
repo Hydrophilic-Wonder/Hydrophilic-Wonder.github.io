@@ -10,7 +10,7 @@ author_profile: true
 Here are the inclusion/exclusion criteria I apply when screening records for your review (environmental exposures and mental health in Africa):
 
 ## INCLUDE
-###Population
+### Population
 Human populations in Africa
 General population, children, adolescents, adults, older adults, pregnant/postpartum populations, farmers, urban residents, informal settlement residents, displaced populations, occupational groups, climate-vulnerable groups.
 Multi-country studies only if African results are reported separately or are clearly extractable
