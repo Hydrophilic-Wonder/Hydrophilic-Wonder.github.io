@@ -9,7 +9,7 @@ These agents (bots or skills) are written in Copilot Studio, powered by either C
 
 # 1. Exposome-Mental Health Review Helper
 
-Here are the inclusion/exclusion criteria I apply when screening records for your review (environmental exposures and mental health in Africa):
+In the scoping review on environmental exposures and mental health in Africa, we used an AI helper as a forth reviewer on a subset of papers. Here are the inclusion/exclusion criteria the agent applies when screening records for the review ):
 
 ## INCLUDE
 ### Population
