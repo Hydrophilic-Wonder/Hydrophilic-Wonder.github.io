@@ -17,5 +17,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Agents"
-    url: /agents/
+  #- title: "Agents"
+  #  url: /agents/
