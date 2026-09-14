@@ -273,4 +273,21 @@ This lecture explores multiple-subscripted arrays and debugging code
 
 [SU Notes (PDF)](/files/Lecture_16.pdf) | [Slideshow (powerpoint)](/files/Lecture_16.pptx) | [Source code]
 
+### Lecture 17: Pointers I 
+This lecture explores pointer variables, their declaration, initialisation, and basic pointer operators.
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+  <iframe
+    src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={0ad2ac87-e96a-47b5-9d57-0a512a0532a8}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    frameborder="0"
+    title="PowerPoint Viewer">
+    This is an embedded <a href="https://office.com/" target="_blank">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps" target="_blank">Office</a>.
+  </iframe>
+</div>
+
+### Download
+
+[SU Notes (PDF)](/files/Lecture_17.pdf) | [Slideshow (powerpoint)](/files/Lecture_17.pptx) | [Source code]
+
 
