@@ -290,4 +290,21 @@ This lecture explores pointer variables, their declaration, initialisation, and 
 
 [SU Notes (PDF)](/files/Lecture_17.pdf) | [Slideshow (powerpoint)](/files/Lecture_17.pptx) | [Source code]
 
+### Lecture 18: Pointers II 
+This lecture explores passing pointer variables "by value" and "by reference"
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+  <iframe
+    src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={c226ed1e-330c-4cc3-a38b-276e72a4fb2a}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    frameborder="0"
+    title="PowerPoint Viewer">
+    This is an embedded <a href="https://office.com/" target="_blank">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps" target="_blank">Office</a>.
+  </iframe>
+</div>
+
+### Download
+
+[SU Notes (PDF)](/files/Lecture_18.pdf) | [Slideshow (powerpoint)](/files/Lecture_18.pptx) | [Source code]
+
 
