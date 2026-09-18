@@ -308,7 +308,7 @@ This lecture explores passing pointer variables "by value" and "by reference"
 [SU Notes (PDF)](/files/Lecture_18.pdf) | [Slideshow (powerpoint)](/files/Lecture_18.pptx) | [Source code]
 
 ### Lecture 19: Pointers III 
-This lecture explores "const" qualifiers and how it is used with pointer variables, and introduces "sizeof" operator
+This lecture explores the "const" qualifier and how it is used with pointer variables, and introduces "sizeof" operator
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <iframe
