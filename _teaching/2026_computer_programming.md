@@ -307,4 +307,22 @@ This lecture explores passing pointer variables "by value" and "by reference"
 
 [SU Notes (PDF)](/files/Lecture_18.pdf) | [Slideshow (powerpoint)](/files/Lecture_18.pptx) | [Source code]
 
+### Lecture 19: Pointers III 
+This lecture explores "const" qualifiers and how it is used with pointer variables, and introduces "sizeof" operator
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+  <iframe
+    src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={4508a61c-02a2-474e-b494-b146a79f2927}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    frameborder="0"
+    title="PowerPoint Viewer">
+    This is an embedded <a href="https://office.com/" target="_blank">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps" target="_blank">Office</a>.
+  </iframe>
+</div>
+
+### Download
+
+[SU Notes (PDF)](/files/Lecture_19.pdf) | [Slideshow (powerpoint)](/files/Lecture_19.pptx) | [Source code]
+
+
 
