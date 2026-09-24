@@ -341,5 +341,23 @@ This lecture explores pointer expressions, arithmetic, and dynamic memory alloca
 
 [SU Notes (PDF)](/files/Lecture_20.pdf) | [Slideshow (powerpoint)](/files/Lecture_20.pptx) | [Source code]
 
+### Lecture 21: Pointers V
+This lecture explores string arrays (array of strings/pointers)
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+  <iframe
+    src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={0b59ce9f-2574-4ae3-9a7b-7e5746cdde72}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+    title="PowerPoint Viewer">
+    This is an embedded <a href="https://office.com/" target="_blank">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps" target="_blank">Office</a>.
+  </iframe>
+</div>
+
+### Download
+
+[SU Notes (PDF)](/files/Lecture_21.pdf) | [Slideshow (powerpoint)](/files/Lecture_21.pptx) | [Source code]
+
+
+
+
 
 
