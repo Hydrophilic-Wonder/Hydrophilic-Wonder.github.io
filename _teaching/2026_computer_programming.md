@@ -347,6 +347,8 @@ This lecture explores string arrays (array of strings/pointers)
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <iframe
     src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={0b59ce9f-2574-4ae3-9a7b-7e5746cdde72}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    frameborder="0"
     title="PowerPoint Viewer">
     This is an embedded <a href="https://office.com/" target="_blank">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps" target="_blank">Office</a>.
   </iframe>
