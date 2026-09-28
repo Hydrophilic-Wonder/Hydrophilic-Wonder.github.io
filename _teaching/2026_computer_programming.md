@@ -291,7 +291,7 @@ This lecture explores pointer variables, their declaration, initialisation, and 
 [SU Notes (PDF)](/files/Lecture_17.pdf) | [Slideshow (powerpoint)](/files/Lecture_17.pptx) | [Source code]
 
 ### Lecture 18: Pointers II 
-This lecture explores passing pointer variables "by value" and "by reference"
+This lecture explores passing pointer variables "by value" and "by reference".
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <iframe
@@ -308,7 +308,7 @@ This lecture explores passing pointer variables "by value" and "by reference"
 [SU Notes (PDF)](/files/Lecture_18.pdf) | [Slideshow (powerpoint)](/files/Lecture_18.pptx) | [Source code]
 
 ### Lecture 19: Pointers III 
-This lecture explores the "const" qualifier and how it is used with pointer variables, and introduces "sizeof" operator
+This lecture explores the "const" qualifier and how it is used with pointer variables, and introduces "sizeof" operator.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <iframe
@@ -325,7 +325,7 @@ This lecture explores the "const" qualifier and how it is used with pointer vari
 [SU Notes (PDF)](/files/Lecture_19.pdf) | [Slideshow (powerpoint)](/files/Lecture_19.pptx) | [Source code]
 
 ### Lecture 20: Pointers IV
-This lecture explores pointer expressions, arithmetic, and dynamic memory allocation
+This lecture explores pointer expressions, arithmetic, and dynamic memory allocation.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <iframe
@@ -342,7 +342,7 @@ This lecture explores pointer expressions, arithmetic, and dynamic memory alloca
 [SU Notes (PDF)](/files/Lecture_20.pdf) | [Slideshow (powerpoint)](/files/Lecture_20.pptx) | [Source code]
 
 ### Lecture 21: Pointers V
-This lecture explores string arrays (array of strings/pointers)
+This lecture explores string arrays (array of strings/pointers).
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <iframe
@@ -357,6 +357,23 @@ This lecture explores string arrays (array of strings/pointers)
 ### Download
 
 [SU Notes (PDF)](/files/Lecture_21.pdf) | [Slideshow (powerpoint)](/files/Lecture_21.pptx) | [Source code]
+
+### Lecture 22: Structures I
+This lecture explores structures as a user-defined datatype. It goes through structure definitions, initialising structures, accessing members of structures, and creating aliases with the typedef function.
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+  <iframe
+    src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={6a26a3a0-0d94-4146-ae06-454a7c76cbf7}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    frameborder="0"
+    title="PowerPoint Viewer">
+    This is an embedded <a href="https://office.com/" target="_blank">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps" target="_blank">Office</a>.
+  </iframe>
+</div>
+
+### Download
+
+[SU Notes (PDF)](/files/Lecture_22.pdf) | [Slideshow (powerpoint)](/files/Lecture_22.pptx) | [Source code]
+
 
 
 
