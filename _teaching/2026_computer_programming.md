@@ -375,7 +375,7 @@ This lecture explores structures as a user-defined datatype. It goes through str
 [SU Notes (PDF)](/files/Lecture_22.pdf) | [Slideshow (powerpoint)](/files/Lecture_22.pptx) | [Source code]
 
 ### Lecture 23: Structures II
-This lecture explores structures as a user-defined datatype. It goes through structure definitions, initialising structures, accessing members of structures, and creating aliases with the typedef function.
+This lecture explores arrays of structures, malloc and structures, and the card shuffling and dealing simulation with structures.
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <iframe
     src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={2c1ca532-90cc-44f4-8019-ce5914c8d742}&amp;action=embedview&amp;wdAr=1.7777777777777777"
@@ -391,7 +391,7 @@ This lecture explores structures as a user-defined datatype. It goes through str
 [SU Notes (PDF)](/files/Lecture_23.pdf) | [Slideshow (powerpoint)](/files/Lecture_23.pptx) | [Source code]
 
 ### Lecture 24: File processing I
-This lecture explores structures as a user-defined datatype. It goes through structure definitions, initialising structures, accessing members of structures, and creating aliases with the typedef function.
+This lecture introduces file processing in C. It explores opening and closing binary and text files, files and streams, creating a file for sequential access, and sequential reading from a text file.
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <iframe
     src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={e44d5087-2e94-467f-8a0b-03ee0d1ca650}&amp;action=embedview&amp;wdAr=1.7777777777777777"
