@@ -407,7 +407,7 @@ This lecture introduces file processing in C. It explores opening and closing bi
 [SU Notes (PDF)](/files/Lecture_24.pdf) | [Slideshow (powerpoint)](/files/Lecture_24.pptx) | [Source code]
 
 ### Lecture 25: File processing II
-This lecture data hierarchy as well as continues file processing by exploring reading and writing to binary files
+This lecture explores data hierarchy as well as continues file processing by exploring reading and writing to binary files
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <iframe
     src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={36256a87-308a-4043-81bd-105779cc637c}&amp;action=embedview&amp;wdAr=1.7777777777777777"
