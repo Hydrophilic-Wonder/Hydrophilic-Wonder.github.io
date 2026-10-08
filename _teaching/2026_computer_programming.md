@@ -422,6 +422,23 @@ This lecture explores data hierarchy as well as continues file processing by exp
 
 [SU Notes (PDF)](/files/Lecture_25.pdf) | [Slideshow (powerpoint)](/files/Lecture_25.pptx) | [Source code]
 
+### Lecture 26: File processing III
+This lecture explores random-access files, understanding fixed-length records, using fseek() to move within a file, writing and reading records from specific locations.
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+  <iframe
+    src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={dd0b6f01-0971-4e8e-bdaf-4ba95f661648}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    frameborder="0"
+    title="PowerPoint Viewer">
+    This is an embedded <a href="https://office.com/" target="_blank">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps" target="_blank">Office</a>.
+  </iframe>
+</div>
+
+### Download
+
+[SU Notes (PDF)](/files/Lecture_26.pdf) | [Slideshow (powerpoint)](/files/Lecture_26.pptx) | [Source code]
+
+
 
 
 
