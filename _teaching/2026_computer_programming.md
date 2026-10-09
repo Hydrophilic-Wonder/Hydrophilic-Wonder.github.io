@@ -438,6 +438,23 @@ This lecture explores random-access files, understanding fixed-length records, u
 
 [SU Notes (PDF)](/files/Lecture_26.pdf) | [Slideshow (powerpoint)](/files/Lecture_26.pptx) | [Source code]
 
+### Lecture 27: Dynamic data structures
+This lecture explores dynamic data structures, dynamic memory allocation, and linked lists (insertion, deletion, and searching).
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+  <iframe
+    src="https://stellenbosch-my.sharepoint.com/personal/ilkhobo_sun_ac_za/_layouts/15/Doc.aspx?sourcedoc={76865d3d-1b5d-4bb3-abc2-9f8281274ba3}&amp;action=embedview&amp;wdAr=1.7777777777777777"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    frameborder="0"
+    title="PowerPoint Viewer">
+    This is an embedded <a href="https://office.com/" target="_blank">Microsoft Office</a> presentation, powered by <a href="https://office.com/webapps" target="_blank">Office</a>.
+  </iframe>
+</div>
+
+### Download
+
+[SU Notes (PDF)](/files/Lecture_27.pdf) | [Slideshow (powerpoint)](/files/Lecture_27.pptx) | [Source code]
+
+
 
 
 
